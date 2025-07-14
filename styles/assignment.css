@@ -1,3 +1,13 @@
+body{
+    background-color: #F5F8FF;
+}
+header{
+    background-image: url("../B12A01-landing-launchpad/Assets/Hero-bg.png");
+    background-size: 100% 100%;
+    align-content: center;
+    max-width: 1440px;
+    max-height: 698px;   
+}
 .btn-mango{
     font-size: 16px;
     font-weight: bold;
@@ -18,4 +28,16 @@ nav{
 .nav-title{
     font-size: 34px;
     color: #4E47FF;
+}
+.banner{
+    margin: 158px 267.5px 152px 267.5px;
+    text-align: center;
+    max-width: 905px;
+    max-height: 237px;   
+}
+.banner-heading{
+    font-size: 65px;
+    font-weight: bold;
+    max-height:152px ;
+    max-width: 905px;
 }
