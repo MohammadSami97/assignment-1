@@ -41,3 +41,31 @@ nav{
     max-height:152px ;
     max-width: 905px;
 }
+.action-section{
+    display: flex;
+    margin: 115px 150px 115px 150px;
+    justify-content: space-between;
+    max-width: 1140px;
+    max-height: 328px;
+    gap: 220px;
+}
+.action-section-text{
+    align-content: center;
+    max-width: 517px;
+    max-height: 203px;
+}
+.action-section-title{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+}
+.action-section-subtitle{
+    font-size: 24px;
+    font-weight: normal;
+    color: #25243250 ;
+}
+.action-section-img{
+    max-width: 403px;
+    max-height: 328px;
+    border-radius: 48px;
+}
