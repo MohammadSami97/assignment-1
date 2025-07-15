@@ -69,3 +69,33 @@ nav{
     max-height: 328px;
     border-radius: 48px;
 }
+.users-section{
+    background-color: #4E47FF10;
+    text-align: center ;
+    padding: 50px 142px;
+    margin: 130px 150px 130px 150px ;
+    border-radius: 24px;
+    max-width: 1140px;
+}
+.users-section-title{
+   font-size: 38px;
+   font-weight: bold;
+   color: #252432;
+}
+.users-items{
+    display: flex;
+    justify-content: space-around;
+}
+.user-data{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+    margin: 0;
+    padding: 0;
+}
+.user-ext{
+    font-size: 20px;
+    color: #00000050;
+    margin: 0;
+    padding: 0;
+}
