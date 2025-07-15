@@ -16,6 +16,12 @@ header{
     padding: 12px 36px;
     border-radius: 10px;
     border: none;
+    transition: 0.3s;
+}
+.btn-mango:hover{
+    background-color: #FFFFFF;
+    color: burlywood;
+    size: 10px;   
 }
 nav{
     display: flex;
