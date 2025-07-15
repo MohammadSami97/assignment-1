@@ -1,3 +1,16 @@
+
+.merriweather-inter {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+    
+
+
 body{
     background-color: #F5F8FF;
 }
@@ -30,10 +43,13 @@ nav{
     margin: auto 150px;
     max-width: 1140px;
     max-height: 151px;
+   
 }
 .nav-title{
     font-size: 34px;
     color: #4E47FF;
+    font-weight: 900;
+    
 }
 .banner{
     margin: 158px 267.5px 152px 267.5px;
@@ -131,13 +147,21 @@ nav{
     max-width: 497px;
     max-height: 490px;   
 }
+.form-box-title{
+    font-size: 18px;
+    font-weight: 500;
+}
 .form-box{
+    font-size: 20px;
+    font-weight: 400;
     border-radius: 10px;
     width: 497px;
     height: 70px;
     padding: 20px;
 }
 .form-box-ext{
+    font-size: 20px;
+    font-weight: 400;
     height:167px;;
     border-radius: 10px;
     width: 533px;   
@@ -202,8 +226,9 @@ form button{
     max-width: 366.67px;
     border-radius: 14px;
     background-color: #FFFFFF50;
-    border-color: #F2EDED;
+    border-color: #f2eded;
     padding: 24px;
+    
 }
 .fb-icons{
     max-width: 116px;   
